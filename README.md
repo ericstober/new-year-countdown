@@ -34,7 +34,3 @@ cd new-year-countdown
 
 - Cusomize the background, fonts, or colors by modifying the CSS in `style.css`.
 - Adjust the countdown date in the JavaScript file `script.js` if needed for other events.
-
-## License
-
-This project is licensed under the MIT License.
